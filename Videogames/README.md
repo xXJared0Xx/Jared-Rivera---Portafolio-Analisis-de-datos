@@ -78,11 +78,12 @@ Este proyecto demuestra:
 * Visualización orientada al negocio
 * Generación de insights a partir de datos
 
+Procesamiento:
+(Procesamiento.ipynb)
 
 Autor:
 
 **Jared Dagoberto Rivera Domínguez**
 Estudiante de Matemáticas Aplicadas y Computación
 Interesado en análisis de datos y Business Intelligence
-
 
