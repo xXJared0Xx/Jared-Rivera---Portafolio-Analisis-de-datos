@@ -38,7 +38,6 @@ Para garantizar la calidad del análisis se realizaron las siguientes tareas:
 * Separación de géneros múltiples en tablas relacionales
 * Creación de un modelo de datos optimizado para análisis
 
----
 
 Modelo de Datos
 
