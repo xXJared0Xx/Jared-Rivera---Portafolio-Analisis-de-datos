@@ -59,6 +59,7 @@ Top géneros por valoración promedio
 Filtro dinámico por periodos (últimos 5, 10 y 20 años)
 
 Vista Previa:
+
 [Dashboard](Dashboard.pdf)
 
 Cómo usar el Dashboard
