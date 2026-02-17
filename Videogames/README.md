@@ -60,7 +60,7 @@ Filtro dinámico por periodos (últimos 5, 10 y 20 años)
 
 Vista Previa:
 
-[Dashboard](Dashboard.pdf)
+[Dashboard](Videojuegos.pdf)
 
 Cómo usar el Dashboard
 
@@ -69,7 +69,7 @@ Cómo usar el Dashboard
 3. Interactuar con los gráficos para analizar tendencias
 4. Pasar el cursor sobre los visuales para ver detalles adicionales
 
-[Descargar](Dashboard.pbix)
+[Descargar](Videojuegos.pbix)
 
 Aprendizajes Clave
 
