@@ -25,7 +25,6 @@ Preparación de los datos:
 Notas:
 - Los datasets originales no se incluyen en este repositorio debido a su tamaño.
 - Los datos pueden descargarse desde el sitio oficial de IMDb.
-- La limpieza y transformación se realizaron mediante consultas SQL y técnicas de preparación de datos.
 
 Última actualización:
 Febrero 2026
