@@ -87,6 +87,8 @@ Procesamiento:
 Autor:
 
 **Jared Dagoberto Rivera Domínguez**
+
 Estudiante de Matemáticas Aplicadas y Computación
+
 Interesado en análisis de datos y Business Intelligence
 
