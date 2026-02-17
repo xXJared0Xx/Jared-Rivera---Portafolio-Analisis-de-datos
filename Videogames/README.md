@@ -1,7 +1,6 @@
 Dashboard de Análisis de la Industria del Videojuego
 
-Este proyecto explora tendencias clave de la industria del videojuego mediante limpieza, transformación y modelado de datos. 
-El dashboard permite analizar el crecimiento del sector, la calidad percibida por los usuarios y el desempeño de los distintos géneros.
+Este proyecto explora tendencias clave de la industria del videojuego mediante limpieza, transformación y modelado de datos. El dashboard permite analizar el crecimiento del sector, la calidad percibida por los usuarios y el desempeño de los distintos géneros.
 
 
 Objetivos:
