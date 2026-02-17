@@ -58,7 +58,8 @@ Gráfico de dispersión: producción vs calidad
 Top géneros por valoración promedio
 Filtro dinámico por periodos (últimos 5, 10 y 20 años)
 
-
+Vista Previa:
+[Dashboard](Dashboard.pdf)
 
 Cómo usar el Dashboard
 
@@ -67,6 +68,7 @@ Cómo usar el Dashboard
 3. Interactuar con los gráficos para analizar tendencias
 4. Pasar el cursor sobre los visuales para ver detalles adicionales
 
+[Descargar](Dashboard.pbix)
 
 Aprendizajes Clave
 
