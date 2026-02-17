@@ -27,6 +27,13 @@ Herramientas y Tecnologías:
 * DAX — medidas dinámicas y filtros temporales
 * IMDb Datasets — fuente de datos
 
+Fuente:
+IMDb Datasets
+https://datasets.imdbws.com/
+
+Archivos utilizados:
+* title.basics.tsv
+* title.ratings.tsv
 
 Preparación de Datos
 
