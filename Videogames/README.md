@@ -79,7 +79,7 @@ Este proyecto demuestra:
 * Generación de insights a partir de datos
 
 Procesamiento:
-(Procesamiento.ipynb)
+[Ver notebook](Procesamiento.ipynb)
 
 Autor:
 
